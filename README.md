@@ -208,7 +208,7 @@
 
 <h3 align="center">🔍 Explore More on My Repositories</h3>
 
-<div style="display: flex; justify-content: center; align-items: center; height: 200px; margin-top: 20px;">
+<div style="display: flex; justify-content: center; align-items: center; height: 200px; margin-top: 20px;"align="center">
   <a href="https://github.com/Sohaib1113?tab=repositories" target="_blank" style="text-decoration: none; color: inherit;">
     <div style="background-color: #007bff; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); overflow: hidden; text-align: center; padding: 10px; max-width: 250px; height: 120px; display: flex; flex-direction: column; justify-content: center; align-items: center; color: white; font-weight: bold;">
       <img src="https://github.com/user-attachments/assets/66284bbf-8767-4cab-a88b-9fd8185824a7" alt="Explore Repositories" style="height: 100px; width: auto; max-width: 100%; object-fit: cover;"/>
