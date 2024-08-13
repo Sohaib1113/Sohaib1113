@@ -23,10 +23,9 @@
 <h3 align="left">📈 GitHub Stats</h3>
 
 ###
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sohaib1113&show_icons=true&hide_border=true&count_private=true&hide=prs&theme=dracula" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sohaib1113&theme=dracula" />
+<p align="center" style="text-align: center; margin: 0;">
+  <img height="180em" style="width: 45%; margin: 0 10px; vertical-align: middle;" src="https://github-readme-stats.vercel.app/api?username=Sohaib1113&show_icons=true&hide_border=true&count_private=true&hide=prs&theme=dracula" />
+  <img height="170em" style="width: 45%; margin: 0 10px; vertical-align: middle;" src="https://github-readme-streak-stats.herokuapp.com/?user=Sohaib1113&theme=dracula" />
 </p>
 
 ###
