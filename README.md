@@ -182,6 +182,45 @@
 ###
 
 
+<h3 align="left">🚀 My Projects</h3>
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <!-- Portfolio Project -->
+  <div style="flex: 1 1 calc(50% - 20px); box-sizing: border-box;">
+    <div style="background-color: #f9f9f9; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); overflow: hidden; text-align: center; padding: 10px;">
+      <a href="https://sohaibsportfolio.netlify.app" target="_blank" style="display: block;">
+        <img src="https://github.com/user-attachments/assets/d14e5870-cdcb-40fa-b37a-dff0d5b344ce" alt="Portfolio" style="width: 100%; height: auto;"/>
+      </a>
+      <p style="margin: 10px 0 0; font-weight: bold;">Portfolio made with Next.js</p>
+    </div>
+  </div>
+
+  <!-- Custom WordPress Theme Project -->
+  <div style="flex: 1 1 calc(50% - 20px); box-sizing: border-box;">
+    <div style="background-color: #f9f9f9; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); overflow: hidden; text-align: center; padding: 10px;">
+      <a href="https://github.com/Sohaib1113/Custom-Wordpress-Theme.git" target="_blank" style="display: block;">
+        <img src="https://github.com/user-attachments/assets/f2e43f16-6160-4ae8-b054-939468e8daca" alt="Custom WordPress Theme" style="width: 100%; height: auto;"/>
+      </a>
+      <p style="margin: 10px 0 0; font-weight: bold;">Custom WordPress Theme</p>
+    </div>
+  </div>
+</div>
+
+<h3 align="center">🔍 Explore More on My Repositories</h3>
+
+<div style="display: flex; justify-content: center; align-items: center; height: 200px; margin-top: 20px;" align="center">
+  <a href="https://github.com/Sohaib1113" target="_blank" style="text-decoration: none; color: inherit;">
+    <div style="background-color: #007bff; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); overflow: hidden; text-align: center; padding: 10px; max-width: 250px; height: 120px; display: flex; flex-direction: column; justify-content: center; align-items: center; color: white; font-weight: bold;">
+      <img src="https://github.com/user-attachments/assets/66284bbf-8767-4cab-a88b-9fd8185824a7" alt="Explore Repositories" style="height: 100px; width: auto; max-width: 100%; object-fit: cover;"/>
+      <p style="margin: 10px 0 0; font-size: 16px; line-height: 1.4;">Explore More Repositories</p>
+    </div>
+  </a>
+</div>
+
+
+
+
+
 
 
  <h1 align="center">End</h1>
