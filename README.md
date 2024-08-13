@@ -38,12 +38,12 @@
 
 <h1 align="center">My Profile</h1>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a78d152e-9134-40a8-8bb0-7b1ecb6b02fc" alt="Square Coding Symbol H03 2k" width="150" height="150" style="margin-right: 10px;" />
-  <img src="https://github.com/user-attachments/assets/af1c20f6-e42d-4eac-9dc9-d753847d1a6f" alt="Sci fi Three Monitor Computer H03 2k" width="150" height="150" />
-  <img src="https://github.com/user-attachments/assets/07a19d32-a85f-49fc-a2bc-da4a49f55c7b" alt="AI Microchip" width="150" height="150" style="margin: 0 10px;" />
-  <img src="https://github.com/user-attachments/assets/911c5829-89a9-4a8c-b653-b511f7b4da18" alt="Robot Head" width="150" height="150" style="margin: 0 10px;" />
-  <img src="https://github.com/user-attachments/assets/7c2cbf29-777b-4483-8c4f-6ed86a6e0da6" alt="Droid H03 2k" width="150" height="150" style="margin: 0 10px;" />
-  <img src="https://github.com/user-attachments/assets/35bfb326-e46c-4845-a284-cfe55a6cca9e" alt="Cartoon Satellite H03 2k" width="150" height="150" style="margin: 0 10px;" />
+  <img src="https://github.com/user-attachments/assets/a78d152e-9134-40a8-8bb0-7b1ecb6b02fc" alt="Square Coding Symbol H03 2k" width="140" height="140" style="margin-right: 10px;" />
+  <img src="https://github.com/user-attachments/assets/af1c20f6-e42d-4eac-9dc9-d753847d1a6f" alt="Sci fi Three Monitor Computer H03 2k" width="140" height="140" />
+  <img src="https://github.com/user-attachments/assets/07a19d32-a85f-49fc-a2bc-da4a49f55c7b" alt="AI Microchip" width="140" height="140" style="margin: 0 10px;" />
+  <img src="https://github.com/user-attachments/assets/911c5829-89a9-4a8c-b653-b511f7b4da18" alt="Robot Head" width="140" height="140" style="margin: 0 10px;" />
+  <img src="https://github.com/user-attachments/assets/7c2cbf29-777b-4483-8c4f-6ed86a6e0da6" alt="Droid H03 2k" width="140" height="140" style="margin: 0 10px;" />
+  <img src="https://github.com/user-attachments/assets/35bfb326-e46c-4845-a284-cfe55a6cca9e" alt="Cartoon Satellite H03 2k" width="140" height="140" style="margin: 0 10px;" />
 </p>
 
 ###
