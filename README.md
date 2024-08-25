@@ -205,6 +205,17 @@
   </div>
 </div>
 
+ <div style="flex: 1 1 calc(50% - 20px); box-sizing: border-box;">
+    <div style="background-color: #f9f9f9; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); overflow: hidden; text-align: center; padding: 10px;">
+      <a href="https://github.com/Sohaib1113/Snippervault.git" target="_blank" style="display: block;">
+        <img src="https://github.com/user-attachments/assets/da161c66-084f-460c-ad54-3242de93e805" alt="Snipper Vault" style="width: 100%; height: auto;"/>
+      </a>
+      <p style="margin: 10px 0 0; font-weight: bold;">SnippetVault</p>
+    </div>
+</div>
+
+</div>
+
 <h3 align="center">🔍 Explore More on My Repositories</h3>
 
 <div style="display: flex; justify-content: center; align-items: center; height: 200px; margin-top: 20px;"align="center">
@@ -213,6 +224,7 @@
       <img src="https://github.com/user-attachments/assets/66284bbf-8767-4cab-a88b-9fd8185824a7" alt="Explore Repositories" style="height: 100px; width: auto; max-width: 100%; object-fit: cover;"/>
       <p style="margin: 10px 0 0; font-size: 16px; line-height: 1.4;">Explore More Repositories</p>
     </div>
+
   </a>
 </div>
 
