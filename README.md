@@ -207,12 +207,13 @@
 
  <div style="flex: 1 1 calc(50% - 20px); box-sizing: border-box;">
     <div style="background-color: #f9f9f9; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); overflow: hidden; text-align: center; padding: 10px;">
-      <a href="https://github.com/Sohaib1113/Snippervault.git" target="_blank" style="display: block;">
-        <img src="https://github.com/user-attachments/assets/da161c66-084f-460c-ad54-3242de93e805" alt="Snipper Vault" style="width: 100%; height: auto;"/>
-      </a>
-      <p style="margin: 10px 0 0; font-weight: bold;">SnippetVault</p>
+        <a href="https://github.com/Sohaib1113/SnippetVault.git" target="_blank" style="display: block;">
+            <img src="https://github.com/user-attachments/assets/da161c66-084f-460c-ad54-3242de93e805" alt="Snippet Vault" style="width: 100%; height: auto;"/>
+        </a>
+        <p style="margin: 10px 0 0; font-weight: bold;">SnippetVault</p>
     </div>
 </div>
+
 
 </div>
 
