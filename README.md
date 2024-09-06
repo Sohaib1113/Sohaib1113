@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/static/v1?message=My%20Portfolio&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"  />
   </a>
 </div>
-<h3 align="left">📈 GitHub Stats</h3>
+<h3 align="left">📈 GitHubs Stats</h3>
 
 ###
 <p align="center" style="text-align: center; margin: 0;">
