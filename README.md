@@ -7,7 +7,8 @@
 
 
 <p align="center" style="margin: 0;">
-  <img src="https://github.com/user-attachments/assets/220cd45a-119d-4a2f-b0ee-7764e1dc4c30" alt="Profile Image" height="120" style="width: 25%; display: block; margin: 0 auto;" />
+  <img src="https://github.com/user-attachments/assets/71c9942c-62bc-43a3-81da-ffad7e443cd4" alt="Gojo Satoru PNG" height="150" style="width: 25%; display: block; margin: 0 auto;" />
+
 </p>
 
 
