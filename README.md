@@ -58,75 +58,33 @@
   I'm **Sohaib**, a passionate software engineer with a strong foundation in a wide range of technologies. I specialize in creating robust and scalable web applications and love diving into new challenges. Below is a brief overview of my skills and expertise.<br><br>
   
 
-<h3 align="left">🛠️ Skills &🚀 Technologies I'm Familiar With</h3>
+<h3 align="left">🛠️ Skills & 🚀 Technologies I'm Familiar With</h3>
 
-###
-<p align="left">
-  <span style="display: inline-block; margin-right: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" style="vertical-align: middle;" />
-    <strong>HTML5</strong>: Crafting semantic and accessible web content.
-  </span><br>
-  
-  <span style="display: inline-block; margin-right: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" style="vertical-align: middle;" />
-    <strong>CSS3</strong>: Designing responsive and visually appealing styles.
-  </span><br>
-  
-  <span style="display: inline-block; margin-right: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="core java logo" style="vertical-align: middle;" />
-    <strong>Core Java</strong>: Building powerful backend systems.
-  </span><br>
-  
-  <span style="display: inline-block; margin-right: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring boot logo" style="vertical-align: middle;" />
-    <strong>Spring Boot</strong>: Developing scalable and secure web applications.
-  </span><br>
-  
-  <span style="display: inline-block; margin-right: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="40" alt="hibernate logo" style="vertical-align: middle;" />
-    <strong>Hibernate</strong>: Simplifying database interactions.
-  </span><br>
-  
-  <span style="display: inline-block; margin-right: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" style="vertical-align: middle;" />
-    <strong>React.js</strong>: Creating dynamic and interactive user interfaces.
-  </span><br>
-  
-  <span style="display: inline-block; margin-right: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" style="vertical-align: middle;" />
-    <strong>MySQL</strong>: Managing and querying relational databases.
-  </span><br>
-  
-  <span style="display: inline-block; margin-right: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo" style="vertical-align: middle;" />
-    <strong>WordPress</strong>: Developing custom themes and plugins.
-  </span><br>
-  
-  <span style="display: inline-block; margin-right: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo" style="vertical-align: middle;" />
-    <strong>Tailwind CSS</strong>: Utilizing utility-first CSS for rapid UI development.
-  </span><br>
-  
-  <span style="display: inline-block; margin-right: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo" style="vertical-align: middle;" />
-    <strong>jQuery</strong>: Enhancing web interfaces with ease.
-  </span><br>
-  
-  <span style="display: inline-block; margin-right: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" style="vertical-align: middle;" />
-    <strong>PHP</strong>: Writing server-side scripts and applications.
-  </span><br>
-  
-  <span style="display: inline-block; margin-right: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="laravel logo" style="vertical-align: middle;" />
-    <strong>Laravel</strong>: Crafting elegant and expressive web applications.
-  </span><br>
-  
-  <span style="display: inline-block; margin-right: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="40" alt="nextjs logo" style="vertical-align: middle;" />
-    <strong>Next.js</strong>: Building fast and SEO-friendly React applications.
-  </span>
-</p>
+<ul>
+  <li><strong>HTML5</strong>: Crafting semantic and accessible web content</li>
+  <li><strong>CSS3</strong>: Designing responsive and visually appealing styles</li>
+  <li><strong>Tailwind CSS</strong>: Utility-first CSS for rapid UI development</li>
+  <li><strong>Bootstrap</strong>: Quick and responsive web layouts</li>
+  <li><strong>JavaScript</strong>: Client-side scripting and interactivity</li>
+  <li><strong>jQuery</strong>: Simplifying DOM manipulation</li>
+  <li><strong>React.js</strong>: Creating dynamic and interactive UIs</li>
+  <li><strong>Next.js</strong>: Building fast and SEO-friendly React apps</li>
+  <li><strong>PHP</strong>: Writing server-side scripts and backends</li>
+  <li><strong>Laravel</strong>: Building expressive and scalable PHP applications</li>
+  <li><strong>CodeIgniter</strong>: Lightweight PHP framework for fast apps</li>
+  <li><strong>MySQL</strong>: Managing and querying relational databases</li>
+  <li><strong>Core Java</strong>: Object-oriented programming and backend logic</li>
+  <li><strong>Spring Boot</strong>: Developing scalable Java-based APIs</li>
+  <li><strong>Hibernate</strong>: ORM tool for simplifying database access</li>
+  <li><strong>WordPress</strong>: Custom theme and plugin development</li>
+  <li><strong>Python</strong>: Scripting, automation, and basic data tasks</li>
+  <li><strong>Git & GitLab</strong>: Version control and collaboration</li>
+  <li><strong>Figma & Canva</strong>: UI/UX design and prototyping</li>
+  <li><strong>Blender</strong>: 3D modeling and asset creation</li>
+  <li><strong>Composer</strong>: PHP dependency management</li>
+  <li><strong>Material UI</strong>: React UI component library</li>
+</ul>
+
 
 ###
 
@@ -157,27 +115,7 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" alt="codeigniter logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-</div>
+
 
 ###
 
