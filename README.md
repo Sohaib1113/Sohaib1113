@@ -96,6 +96,16 @@ Projects that showcase my approach to software engineering, professional develop
 <a href="https://sohaibs.great-site.net/">
   <img src="https://img.shields.io/badge/LIVE%20PROJECT-Explore%20Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Visit personal portfolio"/>
 </a>
+<div align="center">
+  <a href="https://sohaibs.great-site.net/">
+    <img
+      src="https://github.com/user-attachments/assets/e8b677fa-a010-4821-bffd-3a6e300613f7"
+      alt="Animated preview of my personal portfolio website"
+      width="100%"
+    />
+  </a>
+</div>
+
 
 My personal portfolio website showcases my **professional profile, technical skills, career history, and sample work** in one place.
 
