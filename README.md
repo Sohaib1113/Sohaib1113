@@ -1,184 +1,314 @@
-
-<h2 align="center">
-  <img src="https://github.com/user-attachments/assets/d038ed07-f41e-45f5-94b4-dae88b7a6638" alt="Robot Head Logo" style="width: 50px; height: 50px; vertical-align: middle;" />
-  Hey there, Merc with a Keyboard! Welcome to My GitHub Hideout  <img src="https://github.com/user-attachments/assets/d038ed07-f41e-45f5-94b4-dae88b7a6638" alt="Robot Head Logo" style="width: 50px; height: 50px; vertical-align: middle;" />
-</h2>
-
-
-
-<p align="center" style="margin: 0;">
-  <img src="https://github.com/user-attachments/assets/71c9942c-62bc-43a3-81da-ffad7e443cd4" alt="Gojo Satoru PNG" height="150" style="width: 25%; display: block; margin: 0 auto;" />
-
-</p>
-
-
+# SOHAIB SYED
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sohaib-syed-63282416a" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://sohaibsportfolio.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=My%20Portfolio&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"  />
-  </a>
+
+### Software Engineer | Full-Stack Developer | Adaptive AI Enthusiast
+
+Building intelligent applications, scalable systems, and immersive digital experiences.
+
+<a href="https://sohaibs.great-site.net/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-Explore%20My%20Work-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Personal Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/sohaib-syed-63282416a">
+  <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:amaans113@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-Contact%20Me-374151?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=Software+Engineer+%7C+Problem+Solver;Building+Intelligent+Full-Stack+Applications;Exploring+Adaptive+AI+%26+Intelligent+Systems;React+%7C+Next.js+%7C+Node.js+%7C+GraphQL;React+Native+%7C+Three.js+%7C+Strapi;Engineering+Experiences+Beyond+the+Ordinary" alt="Animated software engineering introduction"/>
+
 </div>
-<h3 align="left">📈 GitHub Stats</h3>
 
-###
-<p align="center" style="text-align: center; margin: 0;">
-  <img height="180em" style="width: 45%; margin: 0 10px; vertical-align: middle;" src="https://github-readme-stats.vercel.app/api?username=Sohaib1113&show_icons=true&hide_border=true&count_private=true&hide=prs&theme=dracula" />
-  <img height="170em" style="width: 45%; margin: 0 10px; vertical-align: middle;" src="https://github-readme-streak-stats.herokuapp.com/?user=Sohaib1113&theme=dracula" />
-</p>
+---
 
-###
+## `01` — Engineering Identity
+
+I'm a **Software Engineer** passionate about building modern applications that combine reliable engineering, intelligent functionality, and exceptional user experiences.
+
+My interests span the entire development lifecycle—from designing responsive interfaces and building APIs to developing mobile applications, integrating AI capabilities, and creating immersive web experiences.
+
+I believe great software should be more than functional. It should be scalable, intuitive, maintainable, and adaptable to the needs of its users.
+
+- **Software Engineering:** Full-stack application development and clean architecture
+- **Adaptive AI:** Exploring intelligent workflows and context-aware applications
+- **Frontend Engineering:** React, Next.js, responsive interfaces, and modern UI systems
+- **Backend Engineering:** Node.js, API development, GraphQL, and server-side systems
+- **Mobile Development:** React Native and cross-platform experiences
+- **Interactive Web:** Three.js, 3D interfaces, and engaging digital experiences
+- **Content Platforms:** Strapi, WordPress, and content-driven applications
+
+> My goal is to combine strong engineering fundamentals with intelligent technology to build software that creates meaningful experiences.
+
+## `02` — Technology Ecosystem
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Sohaib1113.Sohaib1113&"  />
-</div>
 
-###
+### Frontend & Web Engineering
 
-<h1 align="center">My Profile</h1>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a78d152e-9134-40a8-8bb0-7b1ecb6b02fc" alt="Square Coding Symbol H03 2k" width="140" height="140" style="margin-right: 10px;" />
-  <img src="https://github.com/user-attachments/assets/af1c20f6-e42d-4eac-9dc9-d753847d1a6f" alt="Sci fi Three Monitor Computer H03 2k" width="140" height="140" />
-  <img src="https://github.com/user-attachments/assets/07a19d32-a85f-49fc-a2bc-da4a49f55c7b" alt="AI Microchip" width="140" height="140" style="margin: 0 10px;" />
-  <img src="https://github.com/user-attachments/assets/911c5829-89a9-4a8c-b653-b511f7b4da18" alt="Robot Head" width="140" height="140" style="margin: 0 10px;" />
-  <img src="https://github.com/user-attachments/assets/7c2cbf29-777b-4483-8c4f-6ed86a6e0da6" alt="Droid H03 2k" width="140" height="140" style="margin: 0 10px;" />
-  <img src="https://github.com/user-attachments/assets/35bfb326-e46c-4845-a284-cfe55a6cca9e" alt="Cartoon Satellite H03 2k" width="140" height="140" style="margin: 0 10px;" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,materialui&perline=9" alt="Frontend technology stack"/>
 
-###
+### Backend & API Engineering
 
-<h3 align="left">👩‍💻  About Me</h3>
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,php,laravel,java,spring,mysql&perline=8" alt="Backend technology stack"/>
 
-###
+### Mobile, CMS & Interactive 3D
 
-<p align="left">
-  Hi there 👋<br><br>
-  I'm **Sohaib**, a passionate software engineer with a strong foundation in a wide range of technologies. I specialize in creating robust and scalable web applications and love diving into new challenges. Below is a brief overview of my skills and expertise.<br><br>
-  
+<img src="https://skillicons.dev/icons?i=react,threejs,strapi,wordpress,flutter,mongodb,postgres,redis&perline=8" alt="Mobile CMS and 3D technology stack"/>
 
-<h3 align="left">🛠️ Skills & 🚀 Technologies I'm Familiar With</h3>
+### AI, Developer Tools & Design
 
-<ul>
-  <li><strong>HTML5</strong>: Crafting semantic and accessible web content</li>
-  <li><strong>CSS3</strong>: Designing responsive and visually appealing styles</li>
-  <li><strong>Tailwind CSS</strong>: Utility-first CSS for rapid UI development</li>
-  <li><strong>Bootstrap</strong>: Quick and responsive web layouts</li>
-  <li><strong>JavaScript</strong>: Client-side scripting and interactivity</li>
-  <li><strong>jQuery</strong>: Simplifying DOM manipulation</li>
-  <li><strong>React.js</strong>: Creating dynamic and interactive UIs</li>
-  <li><strong>Next.js</strong>: Building fast and SEO-friendly React apps</li>
-  <li><strong>PHP</strong>: Writing server-side scripts and backends</li>
-  <li><strong>Laravel</strong>: Building expressive and scalable PHP applications</li>
-  <li><strong>CodeIgniter</strong>: Lightweight PHP framework for fast apps</li>
-  <li><strong>MySQL</strong>: Managing and querying relational databases</li>
-  <li><strong>Core Java</strong>: Object-oriented programming and backend logic</li>
-  <li><strong>Spring Boot</strong>: Developing scalable Java-based APIs</li>
-  <li><strong>Hibernate</strong>: ORM tool for simplifying database access</li>
-  <li><strong>WordPress</strong>: Custom theme and plugin development</li>
-  <li><strong>Python</strong>: Scripting, automation, and basic data tasks</li>
-  <li><strong>Git & GitLab</strong>: Version control and collaboration</li>
-  <li><strong>Figma & Canva</strong>: UI/UX design and prototyping</li>
-  <li><strong>Blender</strong>: 3D modeling and asset creation</li>
-  <li><strong>Composer</strong>: PHP dependency management</li>
-  <li><strong>Material UI</strong>: React UI component library</li>
-</ul>
-
-
-###
-
-<h3 align="left">🌱 Currently Learning</h3>
-
-###
-
-<p align="left">
-  - Exploring advanced features in React.js and Next.js<br>
-  - Delving deeper into backend development with Spring Boot and Laravel<br>
-</p>
-
-###
-
-<h3 align="left">🤝 Let's Connect</h3>
-
-###
-
-<p align="left">
-  - **Email**: [amaans113@gmail.com](mailto:amaans113@gmail.com)<br>
-  - **LinkedIn**: [linkedin.com/in/sohaib-syed-63282416a](https://www.linkedin.com/in/sohaib-syed-63282416a)<br>
-  - **GitHub**: [github.com/Sohaib1113](https://github.com/Sohaib1113)<br>
-</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-
-
-###
-
-
-<h3 align="left">🚀 My Projects</h3>
-
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <!-- Portfolio Project -->
-  <div style="flex: 1 1 calc(50% - 20px); box-sizing: border-box;">
-    <div style="background-color: #f9f9f9; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); overflow: hidden; text-align: center; padding: 10px;">
-      <a href="https://sohaibsportfolio.netlify.app" target="_blank" style="display: block;">
-        <img src="https://github.com/user-attachments/assets/d14e5870-cdcb-40fa-b37a-dff0d5b344ce" alt="Portfolio" style="width: 100%; height: auto;"/>
-      </a>
-      <p style="margin: 10px 0 0; font-weight: bold;">Portfolio made with Next.js</p>
-    </div>
-  </div>
-
-  <!-- Custom WordPress Theme Project -->
-  <div style="flex: 1 1 calc(50% - 20px); box-sizing: border-box;">
-    <div style="background-color: #f9f9f9; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); overflow: hidden; text-align: center; padding: 10px;">
-      <a href="https://github.com/Sohaib1113/Custom-Wordpress-Theme.git" target="_blank" style="display: block;">
-        <img src="https://github.com/user-attachments/assets/f2e43f16-6160-4ae8-b054-939468e8daca" alt="Custom WordPress Theme" style="width: 100%; height: auto;"/>
-      </a>
-      <p style="margin: 10px 0 0; font-weight: bold;">Custom WordPress Theme</p>
-    </div>
-  </div>
-</div>
-
- <div style="flex: 1 1 calc(50% - 20px); box-sizing: border-box;">
-    <div style="background-color: #f9f9f9; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); overflow: hidden; text-align: center; padding: 10px;">
-        <a href="https://github.com/Sohaib1113/SnippetVault.git" target="_blank" style="display: block;">
-            <img src="https://github.com/user-attachments/assets/da161c66-084f-460c-ad54-3242de93e805" alt="Snippet Vault" style="width: 100%; height: auto;"/>
-        </a>
-        <p style="margin: 10px 0 0; font-weight: bold;">SnippetVault</p>
-    </div>
-</div>
-
+<img src="https://skillicons.dev/icons?i=python,git,github,gitlab,docker,postman,figma,blender,vscode&perline=9" alt="AI tools developer tools and design stack"/>
 
 </div>
 
-<h3 align="center">🔍 Explore More on My Repositories</h3>
+<details>
+<summary><strong>Explore my technology stack by category</strong></summary>
 
-<div style="display: flex; justify-content: center; align-items: center; height: 200px; margin-top: 20px;"align="center">
-  <a href="https://github.com/Sohaib1113?tab=repositories" target="_blank" style="text-decoration: none; color: inherit;">
-    <div style="background-color: #007bff; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); overflow: hidden; text-align: center; padding: 10px; max-width: 250px; height: 120px; display: flex; flex-direction: column; justify-content: center; align-items: center; color: white; font-weight: bold;">
-      <img src="https://github.com/user-attachments/assets/66284bbf-8767-4cab-a88b-9fd8185824a7" alt="Explore Repositories" style="height: 100px; width: auto; max-width: 100%; object-fit: cover;"/>
-      <p style="margin: 10px 0 0; font-size: 16px; line-height: 1.4;">Explore More Repositories</p>
-    </div>
+| Engineering Area | Technologies |
+|---|---|
+| Frontend | React, Next.js, JavaScript, TypeScript, HTML5, CSS3 |
+| Styling & UI | Tailwind CSS, Bootstrap, Material UI |
+| Mobile | React Native |
+| 3D & Interactive Web | Three.js |
+| Backend | Node.js, Express.js, Java, Spring Boot |
+| API Architecture | GraphQL, REST APIs |
+| CMS & Content Platforms | Strapi, WordPress |
+| PHP Development | PHP, Laravel, CodeIgniter |
+| Databases | MySQL, MongoDB, PostgreSQL, Redis |
+| AI Exploration | Adaptive AI concepts, intelligent workflows, AI integrations |
+| Tools & Workflow | Git, GitHub, GitLab, Docker, Postman |
+| Design & Prototyping | Figma, Canva, Blender |
+| Build & Development | Composer, VS Code |
 
-  </a>
+</details>
+
+*Technology icons represent my technology ecosystem and areas of interest; they do not imply production-level experience with every tool.*
+
+## `03` — Featured Projects
+
+Projects that showcase my approach to software engineering, professional development, and building useful digital experiences.
+
+### 01. Personal Portfolio — Professional Showcase
+
+<a href="https://sohaibs.great-site.net/">
+  <img src="https://img.shields.io/badge/LIVE%20PROJECT-Explore%20Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Visit personal portfolio"/>
+</a>
+
+My personal portfolio website showcases my **professional profile, technical skills, career history, and sample work** in one place.
+
+It serves as a central introduction to my engineering journey, giving visitors an overview of my background, capabilities, and selected projects.
+
+**Highlights**
+- Professional introduction and career overview
+- Technical skills and technology ecosystem
+- Work samples and project showcase
+- A central destination for exploring my engineering journey
+
+<div align="center">
+
+<a href="https://sohaibs.great-site.net/">
+  **Explore the Live Portfolio →**
+</a>
+
+<br/>
+
+<sub>Live website: https://sohaibs.great-site.net/</sub>
+
 </div>
 
+---
 
+### 02. SnippetVault — Developer Resource Project
 
+<a href="https://github.com/Sohaib1113/SnippetVault">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sohaib1113&repo=SnippetVault&theme=transparent&hide_border=true" alt="SnippetVault repository card"/>
+</a>
 
+A developer-focused project centered on reusable code snippets and programming resources.
 
+**Focus areas**
+- Code organization and reusability
+- Developer productivity
+- A structured approach to everyday coding resources
 
+**Repository:** [Explore SnippetVault →](https://github.com/Sohaib1113/SnippetVault)
 
+---
 
- <h1 align="center">End</h1>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/63f4c01c-088e-41ad-9b16-e87a2a7168f0" alt="Warlock Electric Guitar D04 2k" style="max-width: 50%; height: 220px;" />
-</p>
+### 03. Custom WordPress Theme — Theme Engineering
 
+<a href="https://github.com/Sohaib1113/Custom-Wordpress-Theme">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sohaib1113&repo=Custom-Wordpress-Theme&theme=transparent&hide_border=true" alt="Custom WordPress Theme repository card"/>
+</a>
 
+A custom WordPress theme project focused on website customization and theme development.
 
+**Focus areas**
+- WordPress theme structure and customization
+- PHP-based development
+- Website presentation and content integration
+
+**Repository:** [Explore the source code →](https://github.com/Sohaib1113/Custom-Wordpress-Theme)
+
+---
+
+<div align="center">
+
+<a href="https://github.com/Sohaib1113?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore all GitHub repositories"/>
+</a>
+
+</div>
+
+## `04` — Adaptive AI & Intelligent Software
+
+I'm interested in how AI can enhance traditional software engineering by making applications more responsive, context-aware, and useful.
+
+My direction is to explore the intersection of AI capabilities and practical application development.
+
+```javascript
+const engineeringVision = {
+  core: "Software Engineering",
+
+  development: [
+    "Full-stack applications",
+    "Scalable backend services",
+    "Modern web and mobile experiences"
+  ],
+
+  exploring: [
+    "Adaptive AI concepts",
+    "AI-powered application workflows",
+    "Context-aware user experiences"
+  ],
+
+  interactiveWeb: [
+    "Three.js and immersive interfaces",
+    "Dynamic frontend experiences",
+    "Content-driven applications"
+  ],
+
+  principles: [
+    "Maintainability",
+    "Performance",
+    "Accessibility",
+    "Continuous improvement"
+  ]
+};
+
+export default engineeringVision;
+```
+
+<details>
+<summary><strong>What adaptive AI means in my engineering direction</strong></summary>
+
+- **Context-aware experiences:** Applications that can use relevant context to improve interactions.
+- **Intelligent workflows:** Integrating AI capabilities into practical software features.
+- **Personalization:** Exploring ways to make digital experiences more relevant to their users.
+- **Engineering first:** Building reliable foundations for any intelligent feature, with attention to performance, usability, and responsible implementation.
+
+These are areas of interest and development—not a claim that every capability is already implemented in my projects.
+
+</details>
+
+## `05` — GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/Sohaib1113">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sohaib1113&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="GitHub profile statistics"/>
+</a>
+<a href="https://github.com/Sohaib1113">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohaib1113&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most used programming languages"/>
+</a>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Sohaib1113&theme=transparent&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+## `06` — Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sohaib1113&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/Sohaib1113?tab=repositories">
+  <img src="https://img.shields.io/badge/VIEW-REPOSITORIES-38BDF8?style=for-the-badge&logo=github&logoColor=black" alt="View repositories"/>
+</a>
+
+</div>
+
+<details>
+<summary><strong>How to interpret these statistics</strong></summary>
+
+- **Profile statistics:** Selected repository and contribution metrics.
+- **Top languages:** Languages detected in public repositories; these are not a direct measure of proficiency.
+- **Contribution streak:** Contribution activity over time.
+- **Activity graph:** A visualization of recorded GitHub contributions.
+
+These cards are provided by external services and may occasionally be unavailable or delayed.
+
+</details>
+
+## `07` — Engineering Principles
+
+<div align="center">
+
+| Principle | Approach |
+|---|---|
+| Architecture | Build for maintainability and future growth |
+| Code Quality | Prefer readable, reusable, well-structured code |
+| User Experience | Make interfaces intuitive and accessible |
+| Performance | Consider efficiency across the stack |
+| Adaptability | Stay curious and learn emerging technologies |
+| Delivery | Turn ideas into practical, working software |
+
+</div>
+
+## `08` — Beyond the Code
+
+I'm continuously exploring technologies that expand what software can do—from intelligent application workflows to interactive 3D experiences and modern cross-platform development.
+
+Current areas of focus:
+
+- Deepening full-stack engineering with React, Next.js, and Node.js
+- Exploring React Native for cross-platform mobile development
+- Strengthening API design with GraphQL and REST
+- Exploring Three.js for immersive browser-based experiences
+- Working with Strapi and modern content-driven architectures
+- Learning how adaptive AI can improve real-world applications
+
+## `09` — Let's Build Something
+
+Have an interesting product idea, a software engineering opportunity, or a project involving full-stack development, AI, mobile applications, or interactive web experiences? Let's connect.
+
+<div align="center">
+
+<a href="https://sohaibs.great-site.net/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20My%20Website-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Visit portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/sohaib-syed-63282416a">
+  <img src="https://img.shields.io/badge/LINKEDIN-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+</a>
+<a href="mailto:amaans113@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-Get%20in%20Touch-374151?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email"/>
+</a>
+
+<br/><br/>
+
+**Engineering with purpose. Building with curiosity. Designing for what's next.**
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Sohaib1113&style=flat-square&color=38BDF8&label=PROFILE+VIEWS" alt="GitHub profile views"/>
+
+</div>
